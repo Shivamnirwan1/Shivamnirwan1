@@ -1,5 +1,5 @@
 💫 About Me:<br>
-🔭 I’m currently working on an AI chatbot using Python<br>🤝 I’m looking to collaborate on Open-Source AI and Cybersecurity projects<br>💛 I’m looking for help with Cybersecurity and AI/ML<br>🌱 I’m currently learning GCloud, Azure, C++, and C#<br><br>💬 Ask me about GCloud, Azure, and Cybersecurity<br>⚡ Fun fact: I once tried to debug a program for 6 hours... turns out I just missed a semicolon 😅
+🔭 I’m currently working on an AI chatbot using Python<br>🤝 I’m looking to collaborate on Open-Source AI and Cybersecurity projects<br>💛 I’m looking for help with Cybersecurity and AI/ML<br>🌱 I’m currently learning GCloud, Azure, C++, and C#<br>💬 Ask me about GCloud, Azure, and Cybersecurity<br>⚡ Fun fact: I once tried to debug a program for 6 hours... turns out I just missed a semicolon 😅
 
 
 ## 🌐 Socials:
