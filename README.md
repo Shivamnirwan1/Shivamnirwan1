@@ -1,7 +1,6 @@
-💫 About Me:
-🔭 I’m currently working on an AI chatbot using Python<br><br>🤝 I’m looking to collaborate on Open-Source AI and Cybersecurity projects<br><br>💛 I’m looking for help with Cybersecurity and AI/ML<br><br>🌱 I’m currently learning GCloud, Azure, C++, and C#<br><br>💬 Ask me about GCloud, Azure, and Cybersecurity<br><br>⚡ Fun fact: I once tried to debug a program for 6 hours... turns out I just missed a semicolon 😅
+💫 About Me:<br>
+🔭 I’m currently working on an AI chatbot using Python<br>🤝 I’m looking to collaborate on Open-Source AI and Cybersecurity projects<br>💛 I’m looking for help with Cybersecurity and AI/ML<br>🌱 I’m currently learning GCloud, Azure, C++, and C#<br><br>💬 Ask me about GCloud, Azure, and Cybersecurity<br>⚡ Fun fact: I once tried to debug a program for 6 hours... turns out I just missed a semicolon 😅
 
-<img align="right alt="coding" width="200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivamnirwan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC_V1pHqLLOH_86KsBAn_DmA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirwanshivam69@gmail.com) 
